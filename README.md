@@ -17,8 +17,9 @@ Find if there is any correlation between crime with weather (T) and proximity to
  
 Research Question
 1.	Do crimes happen during certain types of weather conditions in Atlanta? close to ice-cream shops (close to at least 3 ice-cream shops in a radius of 1 mile)?
-a.	Ho: Top Crimes in Atlanta do not correlate with Temperature and proximity to ice-cream shops
-b.	Ha: Top Crimes in Atlanta correlate with Temperature and proximity to ice-cream shops
+
+- Ho: Top Crimes in Atlanta do not correlate with Temperature and proximity to ice-cream shops
+- Ha: Top Crimes in Atlanta correlate with Temperature and proximity to ice-cream shops
  
  
 # Breakdown of tasks
